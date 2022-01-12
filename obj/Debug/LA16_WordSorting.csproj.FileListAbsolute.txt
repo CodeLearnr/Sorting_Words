@@ -1,0 +1,7 @@
+D:\All files\Bow Valley\SODV9104\HW\LA16_WordSorting\bin\Debug\LA16_WordSorting.exe.config
+D:\All files\Bow Valley\SODV9104\HW\LA16_WordSorting\bin\Debug\LA16_WordSorting.exe
+D:\All files\Bow Valley\SODV9104\HW\LA16_WordSorting\bin\Debug\LA16_WordSorting.pdb
+D:\All files\Bow Valley\SODV9104\HW\LA16_WordSorting\obj\Debug\LA16_WordSorting.csproj.AssemblyReference.cache
+D:\All files\Bow Valley\SODV9104\HW\LA16_WordSorting\obj\Debug\LA16_WordSorting.csproj.CoreCompileInputs.cache
+D:\All files\Bow Valley\SODV9104\HW\LA16_WordSorting\obj\Debug\LA16_WordSorting.exe
+D:\All files\Bow Valley\SODV9104\HW\LA16_WordSorting\obj\Debug\LA16_WordSorting.pdb
